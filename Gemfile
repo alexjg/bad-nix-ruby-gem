@@ -1,1 +1,6 @@
-gem "getsource", "0.2.2", git: "https://github.com/alexjg/getsource.git"
+source "https://rubygems.org"
+
+#gem 'shikashi', '~> 0.6'
+gem "getsource", ">= 0.1.0"
+
+

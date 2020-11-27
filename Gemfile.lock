@@ -1,17 +1,13 @@
-GIT
-  remote: https://github.com/alexjg/getsource.git
-  revision: 43417d97fb1391548659c513c257cf019e409d9b
+GEM
+  remote: https://rubygems.org/
   specs:
     getsource (0.2.2)
-
-GEM
-  specs:
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  getsource (= 0.2.2)!
+  getsource (>= 0.1.0)
 
 BUNDLED WITH
    1.17.2
